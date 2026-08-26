@@ -1,6 +1,8 @@
 ## Prompt iniziale
 
-ZeroEmail is a pc game written in python pgzero. In spec/stakeholders.md you find the comments of the stakeholders. Help me draft a "constitution" for the repository:
+ZeroEmail is a pc game written in python pgzero. In spec/stakeholders.md you find the comments of the stakeholders. In spec/shortcuts.md you find the gmail shortcuts that are learned during the game. 
+
+Help me draft a "constitution" for the repository:
 - mission.md
 - tech-stack.md
 - plan-implementation.md where we outline the plan of implementation in small steps and the order of implementation
@@ -8,5 +10,5 @@ ZeroEmail is a pc game written in python pgzero. In spec/stakeholders.md you fin
 - plan-context.md where we outline the fictional context, we describe the main character and the other characters, and we describe the storyline that the player witnesses during the game
 - plan-extra.md where we describe in quite some detail the extra features that we want (game menu, achievements, side quests, etc.)
 
-Ask the user before writing to the repository
+Ask questions to the user and discuss with him before writing to the repository
 
